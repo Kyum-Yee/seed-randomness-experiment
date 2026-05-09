@@ -1,5 +1,7 @@
 # Does Putting a Random Seed at the Very Start of the Prompt Actually Make Responses Random?
 
+> [한국어 만연체](한국어_md.ver.md) · [한국어 논문체](한국어_논문.ver.md) · [English long-form](Eng_md.ver.md) · **English paper-style**
+
 **Date**: 2026-05-09 · **Model**: gemini-3-flash-preview · **Evaluators**: gemini-3.1-pro-preview / codex (gpt-5.4) / claude opus 4.7
 
 ## Abstract

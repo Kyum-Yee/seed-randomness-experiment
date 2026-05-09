@@ -1,5 +1,7 @@
 # prompt 맨 앞 random seed가 응답을 정말로 random하게 만드는가?
 
+> **한국어 만연체** · [한국어 논문체](한국어_논문.ver.md) · [English long-form](Eng_md.ver.md) · [English paper-style](Eng_pap.ver.md)
+
 > 본 보고서는 동일한 작업을 네 가지 처치 조건 아래에서 비교한 4군 실험을 통해, 대규모 언어 모델의 응답에 다양성을 부여하는 메커니즘들 사이에 어떤 효과의 위계가 존재하는지를 정량적으로 측정하고자 한 시도의 기록이다.
 
 **일자**: 2026-05-09 · **모델**: gemini-3-flash-preview · **평가자**: gemini-3.1-pro-preview / codex (gpt-5.4) / claude opus 4.7

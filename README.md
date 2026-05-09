@@ -1,5 +1,7 @@
 # Seed Randomness Experiment
 
+> [한국어](README.kr.md) · **English**
+
 Does putting a random seed at the very front of a prompt actually make LLM responses more random? This controlled experiment compares four treatment conditions.
 
 ## Main Finding

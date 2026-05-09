@@ -1,5 +1,7 @@
 # Does Putting a Random Seed at the Very Start of the Prompt Actually Make Responses Random?
 
+> [한국어 만연체](한국어_md.ver.md) · [한국어 논문체](한국어_논문.ver.md) · **English long-form** · [English paper-style](Eng_pap.ver.md)
+
 > This report attempts to quantify whether the mechanisms that introduce diversity into large language model outputs operate in a hierarchy, using a four-arm experiment that compares the same task under four treatment conditions.
 
 **Date**: 2026-05-09 · **Model**: gemini-3-flash-preview · **Evaluators**: gemini-3.1-pro-preview / codex (gpt-5.4) / claude opus 4.7

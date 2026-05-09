@@ -1,5 +1,7 @@
 # Seed Randomness Experiment
 
+> **한국어** · [English](README.md)
+
 prompt 맨 앞에 random seed를 넣으면 LLM 응답이 실제로 더 랜덤해지는가? 4가지 처치 조건을 비교한 통제 실험이다.
 
 ## 핵심 결과
